@@ -14,3 +14,6 @@ Allows you to change which server region you would like to connect to.
 
 # Issues, questions, etc.
 Please submit [here](https://github.com/ShingekiNoRex/CW-RegionSwitcher/issues).
+
+# Donation
+You can buy me a cup of coffee [here](https://ko-fi.com/shingekinorex) :)
